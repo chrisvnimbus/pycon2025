@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/schubergphilis/paleofuturistic_python",
+  "commit": "89a5bfc225699e2472739db14b737826e07e94b6",
+  "checkout": "latest",
+  "context": {
+    "cookiecutter": {
+      "project_name": "Paleofuturistic Python Project",
+      "project_slug": "paleofuturistic_python_project",
+      "project_description": "Development flow as Paleofuturistic Python",
+      "full_name": "Paleofuturistic Python",
+      "email": "chris.verweij@nimbusintelligence.com",
+      "python_version": "3.12",
+      "_template": "https://github.com/schubergphilis/paleofuturistic_python",
+      "_commit": "89a5bfc225699e2472739db14b737826e07e94b6"
+    }
+  },
+  "directory": null
+}

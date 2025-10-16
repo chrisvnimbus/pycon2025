@@ -1,0 +1,23 @@
+[project]
+name = "paleofuturistic_python_project"
+version = "0.1.0"
+description = "Development flow as Paleofuturistic Python"
+readme = "README.md"
+authors = [
+    {name = "Paleofuturistic Python", email = "chris.verweij@nimbusintelligence.com"},
+]
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.5",
+]
+classifiers = [
+  # License
+  "License :: OSI Approved :: Apache Software License",
+
+  # Python versions supported by the package
+  "Programming Language :: Python :: 3.12",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
