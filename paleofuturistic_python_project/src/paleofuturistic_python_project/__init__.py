@@ -1,3 +1,1 @@
-from .paleofuturistic_python_project import hello
-
-assert hello
+from .paleofuturistic_python_project import hello as hello
